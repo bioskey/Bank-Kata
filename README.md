@@ -1,0 +1,3 @@
+# Bank-Kata
+
+kata test
